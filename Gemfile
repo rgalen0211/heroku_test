@@ -17,6 +17,8 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'carrierwave'
 gem 'faker'
+gem 'fog'
+gem 'figaro'
 
 
 #for our local server:
